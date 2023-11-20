@@ -1,0 +1,5 @@
+Sum: 531
+MaX: 87
+Min: 1
+Total: 20
+Average: 26.55
