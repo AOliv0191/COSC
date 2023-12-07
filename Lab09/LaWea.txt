@@ -1,0 +1,5 @@
+Sum: 55
+Average: 5.5
+Largest value: 10
+Smallest value: 1
+Standard deviation: 3.0276503540974917
